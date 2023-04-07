@@ -1,0 +1,17 @@
+{
+    "id": 1015,
+    "firstName": "Danie",
+    "lastName": "Lafford",
+    "company": "White, Reichel and Lehner",
+    "title": "Account Representative I",
+    "dob": "1999-04-17",
+    "pob": {
+        "city": "San Antonio",
+        "state": "Texas",
+        "country": "United States",
+        "latitude": 29.3977,
+        "longitude": -98.4658
+    },
+    "image": "person-06.jpg",
+    "favColor": "Yellow"
+}

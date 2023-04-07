@@ -1,0 +1,17 @@
+{
+    "id": 1021,
+    "firstName": "Vernor",
+    "lastName": "Blaw",
+    "company": "Nicolas-Watsica",
+    "title": "Nurse",
+    "dob": "1994-03-13",
+    "pob": {
+        "city": "Montgomery",
+        "state": "Alabama",
+        "country": "United States",
+        "latitude": 32.404,
+        "longitude": -86.2539
+    },
+    "image": "person-07.jpg",
+    "favColor": "Yellow"
+}

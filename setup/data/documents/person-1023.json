@@ -1,0 +1,17 @@
+{
+    "id": 1023,
+    "firstName": "Johannah",
+    "lastName": "Raspin",
+    "company": "Mueller Group",
+    "title": "Assistant Manager",
+    "dob": "1986-08-05",
+    "pob": {
+        "city": "Fort Worth",
+        "state": "Texas",
+        "country": "United States",
+        "latitude": 32.6469,
+        "longitude": -97.3325
+    },
+    "image": "person-03.jpg",
+    "favColor": "Purple"
+}

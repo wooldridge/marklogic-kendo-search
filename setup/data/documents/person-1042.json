@@ -1,0 +1,17 @@
+{
+    "id": 1042,
+    "firstName": "Lise",
+    "lastName": "Brisker",
+    "company": "Durgan Group",
+    "title": "Help Desk Operator",
+    "dob": "1988-03-01",
+    "pob": {
+        "city": "Sioux Falls",
+        "state": "South Dakota",
+        "country": "United States",
+        "latitude": 43.524,
+        "longitude": -96.7341
+    },
+    "image": "person-06.jpg",
+    "favColor": "Teal"
+}

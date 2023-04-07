@@ -1,0 +1,17 @@
+{
+    "id": 1044,
+    "firstName": "Hamid",
+    "lastName": "Lotwich",
+    "company": "Lynch LLC",
+    "title": "Editor",
+    "dob": "1975-12-16",
+    "pob": {
+        "city": "Lafayette",
+        "state": "Louisiana",
+        "country": "United States",
+        "latitude": 30.2081,
+        "longitude": -92.0951
+    },
+    "image": "person-01.jpg",
+    "favColor": "Red"
+}

@@ -1,0 +1,17 @@
+{
+    "id": 1006,
+    "firstName": "Joy",
+    "lastName": "Proudlove",
+    "company": "Reinger-Veum",
+    "title": "Web Designer III",
+    "dob": "1975-03-17",
+    "pob": {
+        "city": "Harrisburg",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "latitude": 40.2944,
+        "longitude": -76.8938
+    },
+    "image": "person-06.jpg",
+    "favColor": "Khaki"
+}

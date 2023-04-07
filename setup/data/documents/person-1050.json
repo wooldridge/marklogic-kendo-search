@@ -1,0 +1,17 @@
+{
+    "id": 1050,
+    "firstName": "George",
+    "lastName": "Kryzhov",
+    "company": "Fay-Brekke",
+    "title": "Community Outreach Specialist",
+    "dob": "1987-07-26",
+    "pob": {
+        "city": "Baltimore",
+        "state": "Maryland",
+        "country": "United States",
+        "latitude": 39.2856,
+        "longitude": -76.6899
+    },
+    "image": "person-04.jpg",
+    "favColor": "Red"
+}

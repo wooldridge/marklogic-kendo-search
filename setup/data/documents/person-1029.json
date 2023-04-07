@@ -1,0 +1,17 @@
+{
+    "id": 1029,
+    "firstName": "Karlotta",
+    "lastName": "Hugland",
+    "company": "Bogan-Legros",
+    "title": "Paralegal",
+    "dob": "1990-03-15",
+    "pob": {
+        "city": "Denver",
+        "state": "Colorado",
+        "country": "United States",
+        "latitude": 39.6472,
+        "longitude": -105.0795
+    },
+    "image": "person-03.jpg",
+    "favColor": "Violet"
+}

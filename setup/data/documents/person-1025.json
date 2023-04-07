@@ -1,0 +1,17 @@
+{
+    "id": 1025,
+    "firstName": "Nahum",
+    "lastName": "Bosden",
+    "company": "Bechtelar Group",
+    "title": "Quality Control Specialist",
+    "dob": "1992-03-01",
+    "pob": {
+        "city": "Durham",
+        "state": "North Carolina",
+        "country": "United States",
+        "latitude": 36.0512,
+        "longitude": -78.8577
+    },
+    "image": "person-01.jpg",
+    "favColor": "Purple"
+}

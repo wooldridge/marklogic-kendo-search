@@ -1,0 +1,17 @@
+{
+    "id": 1035,
+    "firstName": "Leontine",
+    "lastName": "Willerton",
+    "company": "Maggio, King and Bechtelar",
+    "title": "Research Associate",
+    "dob": "1998-07-28",
+    "pob": {
+        "city": "Austin",
+        "state": "Texas",
+        "country": "United States",
+        "latitude": 30.1876,
+        "longitude": -97.7472
+    },
+    "image": "person-04.jpg",
+    "favColor": "Crimson"
+}

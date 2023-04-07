@@ -1,0 +1,17 @@
+{
+    "id": 1014,
+    "firstName": "Walden",
+    "lastName": "Pottell",
+    "company": "Pfannerstill, Durgan and Senger",
+    "title": "Web Designer I",
+    "dob": "1987-02-09",
+    "pob": {
+        "city": "Cincinnati",
+        "state": "Ohio",
+        "country": "United States",
+        "latitude": 39.1668,
+        "longitude": -84.5382
+    },
+    "image": "person-05.jpg",
+    "favColor": "Blue"
+}

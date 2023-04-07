@@ -1,0 +1,17 @@
+{
+    "id": 1043,
+    "firstName": "Ernestine",
+    "lastName": "Costelow",
+    "company": "Wiegand and Sons",
+    "title": "Administrative Assistant III",
+    "dob": "1994-06-23",
+    "pob": {
+        "city": "New York City",
+        "state": "New York",
+        "country": "United States",
+        "latitude": 40.7611,
+        "longitude": -73.968
+    },
+    "image": "person-08.jpg",
+    "favColor": "Red"
+}

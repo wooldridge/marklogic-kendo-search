@@ -1,0 +1,17 @@
+{
+    "id": 1048,
+    "firstName": "Lionello",
+    "lastName": "Peascod",
+    "company": "Heidenreich LLC",
+    "title": "Desktop Support Technician",
+    "dob": "1997-04-12",
+    "pob": {
+        "city": "Dallas",
+        "state": "Texas",
+        "country": "United States",
+        "latitude": 32.7673,
+        "longitude": -96.7776
+    },
+    "image": "person-08.jpg",
+    "favColor": "Fuscia"
+}

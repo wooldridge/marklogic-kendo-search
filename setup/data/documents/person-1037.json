@@ -1,0 +1,17 @@
+{
+    "id": 1037,
+    "firstName": "Caril",
+    "lastName": "Ferie",
+    "company": "DuBuque, Renner and Fahey",
+    "title": "Legal Assistant",
+    "dob": "1999-05-29",
+    "pob": {
+        "city": "Wichita",
+        "state": "Kansas",
+        "country": "United States",
+        "latitude": 37.6808,
+        "longitude": -97.1558
+    },
+    "image": "person-05.jpg",
+    "favColor": "Pink"
+}

@@ -1,0 +1,17 @@
+{
+    "id": 1001,
+    "firstName": "Humphrey",
+    "lastName": "Leese",
+    "company": "Hauck Inc",
+    "title": "Data Coordinator",
+    "dob": "1984-02-22",
+    "pob": {
+        "city": "Cedar Rapids",
+        "state": "Iowa",
+        "country": "United States",
+        "latitude": 41.9804,
+        "longitude": -91.7098
+    },
+    "image": "person-01.jpg",
+    "favColor": "Blue"
+}

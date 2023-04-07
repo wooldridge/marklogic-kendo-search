@@ -1,0 +1,17 @@
+{
+    "id": 1026,
+    "firstName": "Tobe",
+    "lastName": "Matthiae",
+    "company": "Conn and Sons",
+    "title": "Technical Writer",
+    "dob": "1995-05-20",
+    "pob": {
+        "city": "Washington",
+        "state": "District of Columbia",
+        "country": "United States",
+        "latitude": 38.8959,
+        "longitude": -77.0211
+    },
+    "image": "person-05.jpg",
+    "favColor": "Puce"
+}

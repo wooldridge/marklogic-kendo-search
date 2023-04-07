@@ -1,0 +1,17 @@
+{
+    "id": 1011,
+    "firstName": "Otho",
+    "lastName": "Somerset",
+    "company": "Bayer, Goodwin and Rodriguez",
+    "title": "Assistant Professor",
+    "dob": "1977-11-29",
+    "pob": {
+        "city": "Houston",
+        "state": "Texas",
+        "country": "United States",
+        "latitude": 29.834,
+        "longitude": -95.4342
+    },
+    "image": "person-02.jpg",
+    "favColor": "Crimson"
+}

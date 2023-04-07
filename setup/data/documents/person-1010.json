@@ -1,0 +1,17 @@
+{
+    "id": 1010,
+    "firstName": "Kynthia",
+    "lastName": "Stopford",
+    "company": "Hickle LLC",
+    "title": "Staff Accountant III",
+    "dob": "1999-10-03",
+    "pob": {
+        "city": "Abilene",
+        "state": "Texas",
+        "country": "United States",
+        "latitude": 32.4665,
+        "longitude": -99.7117
+    },
+    "image": "person-01.jpg",
+    "favColor": "Fuscia"
+}

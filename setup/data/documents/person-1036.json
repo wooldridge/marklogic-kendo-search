@@ -1,0 +1,17 @@
+{
+    "id": 1036,
+    "firstName": "Simone",
+    "lastName": "Ireland",
+    "company": "Hirthe-Hintz",
+    "title": "Assistant Manager",
+    "dob": "1989-08-14",
+    "pob": {
+        "city": "Hialeah",
+        "state": "Florida",
+        "country": "United States",
+        "latitude": 25.8594,
+        "longitude": -80.2725
+    },
+    "image": "person-04.jpg",
+    "favColor": "Aquamarine"
+}

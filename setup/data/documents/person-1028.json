@@ -1,0 +1,17 @@
+{
+    "id": 1028,
+    "firstName": "Morey",
+    "lastName": "Sawood",
+    "company": "Collins, Borer and Pagac",
+    "title": "Senior Financial Analyst",
+    "dob": "1989-02-27",
+    "pob": {
+        "city": "Jersey City",
+        "state": "New Jersey",
+        "country": "United States",
+        "latitude": 40.7324,
+        "longitude": -74.0431
+    },
+    "image": "person-01.jpg",
+    "favColor": "Violet"
+}

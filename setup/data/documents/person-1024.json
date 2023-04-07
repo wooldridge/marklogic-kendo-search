@@ -1,0 +1,17 @@
+{
+    "id": 1024,
+    "firstName": "Duke",
+    "lastName": "Gladman",
+    "company": "Herzog, Jenkins and Hackett",
+    "title": "Teacher",
+    "dob": "1982-11-16",
+    "pob": {
+        "city": "Erie",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "latitude": 42.1827,
+        "longitude": -80.0649
+    },
+    "image": "person-05.jpg",
+    "favColor": "Puce"
+}

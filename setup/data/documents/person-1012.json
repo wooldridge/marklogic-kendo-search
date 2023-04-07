@@ -1,0 +1,17 @@
+{
+    "id": 1012,
+    "firstName": "Kenna",
+    "lastName": "Welfare",
+    "company": "Dach LLC",
+    "title": "Paralegal",
+    "dob": "1989-06-16",
+    "pob": {
+        "city": "Detroit",
+        "state": "Michigan",
+        "country": "United States",
+        "latitude": 42.2399,
+        "longitude": -83.1508
+    },
+    "image": "person-03.jpg",
+    "favColor": "Aquamarine"
+}

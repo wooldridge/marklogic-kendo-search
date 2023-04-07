@@ -1,0 +1,82 @@
+{
+    "options": {
+        "constraint": [
+            {
+                "name": "collection",
+                "collection": null
+            },
+            {
+                "name": "date-of-birth",
+                "range": {
+                    "collation": "",
+                    "facet": false,
+                    "type": "xs:date",
+                    "element": {
+                        "name": "dob"
+                    }
+                }
+            },
+            {
+                "name": "favorite-color",
+                "range": {
+                    "collation": "http://marklogic.com/collation/codepoint",
+                    "facet": true,
+                    "type": "xs:string",
+                    "element": {
+                        "name": "favColor"
+                    },
+                    "facet-option": [
+                        "limit=25"
+                    ]
+                }
+            },
+            {
+                "name": "state",
+                "range": {
+                    "type": "xs:string",
+                    "facet": true,
+                    "collation": "http://marklogic.com/collation/codepoint",
+                    "path-index": {
+                        "text": "/pob/state"
+                    },
+                    "facet-option": [
+                        "limit=50",
+                        "frequency-order",
+                        "descending"
+                    ]
+                }
+            },
+            {
+                "name": "title",
+                "word": {
+                    "field": { 
+                        "name": "title" 
+                    }
+                }
+            }
+        ],
+        "search-option": [
+            "unfiltered"
+        ],
+        "extract-document-data": {
+            "selected": "include",
+            "extract-path": [
+                "/firstName",
+                "/lastName",
+                "/id",
+                "/title",
+                "/pob/state",
+                "/dob"
+
+            ]
+        },
+        "return-facets": true,
+        "return-query": true,
+        "transform-results": {
+            "apply": "snippet",
+            "per-match-tokens": "30",
+            "max-matches": "4",
+            "max-snippet-chars": "200"
+        }
+    }
+}

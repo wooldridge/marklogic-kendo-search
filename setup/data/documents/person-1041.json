@@ -1,0 +1,17 @@
+{
+    "id": 1041,
+    "firstName": "Tremain",
+    "lastName": "Mulvany",
+    "company": "Kilback-Schneider",
+    "title": "Help Desk Technician",
+    "dob": "2000-01-16",
+    "pob": {
+        "city": "Albany",
+        "state": "Georgia",
+        "country": "United States",
+        "latitude": 31.55,
+        "longitude": -84.0612
+    },
+    "image": "person-01.jpg",
+    "favColor": "Crimson"
+}

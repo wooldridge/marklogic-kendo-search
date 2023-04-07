@@ -1,0 +1,17 @@
+{
+    "id": 1002,
+    "firstName": "Abrahan",
+    "lastName": "Upex",
+    "company": "Monahan, Corkery and Cremin",
+    "title": "Human Resources Manager",
+    "dob": "1991-06-26",
+    "pob": {
+        "city": "Hialeah",
+        "state": "Florida",
+        "country": "United States",
+        "latitude": 25.8594,
+        "longitude": -80.2725
+    },
+    "image": "person-02.jpg",
+    "favColor": "Aquamarine"
+}

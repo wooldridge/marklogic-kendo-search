@@ -1,0 +1,17 @@
+{
+    "id": 1046,
+    "firstName": "Daisy",
+    "lastName": "Stilgoe",
+    "company": "Cartwright, Raynor and Fritsch",
+    "title": "Design Engineer",
+    "dob": "1986-02-23",
+    "pob": {
+        "city": "Houston",
+        "state": "Texas",
+        "country": "United States",
+        "latitude": 29.7179,
+        "longitude": -95.4263
+    },
+    "image": "person-02.jpg",
+    "favColor": "Blue"
+}

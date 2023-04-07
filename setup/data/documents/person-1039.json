@@ -1,0 +1,17 @@
+{
+    "id": 1039,
+    "firstName": "Amanda",
+    "lastName": "Paulsen",
+    "company": "Hansen-Ziemann",
+    "title": "Structural Analysis Engineer",
+    "dob": "1975-12-18",
+    "pob": {
+        "city": "Milwaukee",
+        "state": "Wisconsin",
+        "country": "United States",
+        "latitude": 43.0174,
+        "longitude": -87.5697
+    },
+    "image": "person-09.jpg",
+    "favColor": "Turquoise"
+}

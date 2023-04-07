@@ -1,0 +1,17 @@
+{
+    "id": 1027,
+    "firstName": "Demetri",
+    "lastName": "Yokley",
+    "company": "Donnelly-Padberg",
+    "title": "VP Product Management",
+    "dob": "1986-12-21",
+    "pob": {
+        "city": "Houston",
+        "state": "Texas",
+        "country": "United States",
+        "latitude": 29.8159,
+        "longitude": -95.523
+    },
+    "image": "person-03.jpg",
+    "favColor": "Goldenrod"
+}

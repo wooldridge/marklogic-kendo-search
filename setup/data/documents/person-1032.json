@@ -1,0 +1,17 @@
+{
+    "id": 1032,
+    "firstName": "Eduardo",
+    "lastName": "Odcroft",
+    "company": "Ruecker, Keebler and Braun",
+    "title": "Cost Accountant",
+    "dob": "1986-04-17",
+    "pob": {
+        "city": "Seattle",
+        "state": "Washington",
+        "country": "United States",
+        "latitude": 47.4497,
+        "longitude": -122.3076
+    },
+    "image": "person-07.jpg",
+    "favColor": "Mauv"
+}

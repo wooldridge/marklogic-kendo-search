@@ -1,0 +1,17 @@
+{
+    "id": 1022,
+    "firstName": "Sandie",
+    "lastName": "Anthona",
+    "company": "Farrell, MacGyver and Kozey",
+    "title": "Senior Quality Engineer",
+    "dob": "1984-01-30",
+    "pob": {
+        "city": "Tulsa",
+        "state": "Oklahoma",
+        "country": "United States",
+        "latitude": 36.175,
+        "longitude": -95.8477
+    },
+    "image": "person-08.jpg",
+    "favColor": "Indigo"
+}

@@ -1,0 +1,17 @@
+{
+    "id": 1004,
+    "firstName": "Romona",
+    "lastName": "Pooly",
+    "company": "Pacocha, Jaskolski and Wunsch",
+    "title": "Accountant I",
+    "dob": "1978-04-22",
+    "pob": {
+        "city": "Phoenix",
+        "state": "Arizona",
+        "country": "United States",
+        "latitude": 33.7352,
+        "longitude": -112.1294
+    },
+    "image": "person-04.jpg",
+    "favColor": "Pink"
+}

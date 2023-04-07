@@ -1,0 +1,17 @@
+{
+    "id": 1019,
+    "firstName": "Fonsie",
+    "lastName": "Tredger",
+    "company": "Rippin and Sons",
+    "title": "Chief Design Engineer",
+    "dob": "1996-07-23",
+    "pob": {
+        "city": "Fort Worth",
+        "state": "Texas",
+        "country": "United States",
+        "latitude": 32.7714,
+        "longitude": -97.2915
+    },
+    "image": "person-01.jpg",
+    "favColor": "Teal"
+}

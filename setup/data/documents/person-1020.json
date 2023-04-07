@@ -1,0 +1,17 @@
+{
+    "id": 1020,
+    "firstName": "Nina",
+    "lastName": "Schulkins",
+    "company": "Dibbert, White and Bahringer",
+    "title": "Director of Sales",
+    "dob": "1994-12-09",
+    "pob": {
+        "city": "Atlanta",
+        "state": "Georgia",
+        "country": "United States",
+        "latitude": 33.786,
+        "longitude": -84.3514
+    },
+    "image": "person-02.jpg",
+    "favColor": "Violet"
+}

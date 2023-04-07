@@ -1,0 +1,17 @@
+{
+    "id": 1003,
+    "firstName": "Aurlie",
+    "lastName": "Maceur",
+    "company": "Quigley LLC",
+    "title": "Design Engineer",
+    "dob": "1997-12-26",
+    "pob": {
+        "city": "Virginia Beach",
+        "state": "Virginia",
+        "country": "United States",
+        "latitude": 36.8282,
+        "longitude": -76.0237
+    },
+    "image": "person-03.jpg",
+    "favColor": "Khaki"
+}

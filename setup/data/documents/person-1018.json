@@ -1,0 +1,17 @@
+{
+    "id": 1018,
+    "firstName": "Guss",
+    "lastName": "Pickerin",
+    "company": "Leuschke-Lehner",
+    "title": "Senior Developer",
+    "dob": "1993-10-26",
+    "pob": {
+        "city": "Atlanta",
+        "state": "Georgia",
+        "country": "United States",
+        "latitude": 33.7629,
+        "longitude": -84.4226
+    },
+    "image": "person-09.jpg",
+    "favColor": "Teal"
+}

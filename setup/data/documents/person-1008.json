@@ -1,0 +1,17 @@
+{
+    "id": 1008,
+    "firstName": "Pietra",
+    "lastName": "Hackelton",
+    "company": "Walker, Harber and Schiller",
+    "title": "Compensation Analyst",
+    "dob": "1998-09-17",
+    "pob": {
+        "city": "Baltimore",
+        "state": "Maryland",
+        "country": "United States",
+        "latitude": 39.439,
+        "longitude": -76.5921
+    },
+    "image": "person-08.jpg",
+    "favColor": "Fuscia"
+}

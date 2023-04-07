@@ -1,0 +1,17 @@
+{
+    "id": 1040,
+    "firstName": "Gerome",
+    "lastName": "Yeoland",
+    "company": "Klein Group",
+    "title": "Design Engineer",
+    "dob": "1992-03-25",
+    "pob": {
+        "city": "Albuquerque",
+        "state": "New Mexico",
+        "country": "United States",
+        "latitude": 35.0443,
+        "longitude": -106.6729
+    },
+    "image": "person-02.jpg",
+    "favColor": "Teal"
+}

@@ -1,0 +1,17 @@
+{
+    "id": 1038,
+    "firstName": "Jackqueline",
+    "lastName": "Milington",
+    "company": "Gorczany, Schultz and Konopelski",
+    "title": "Programmer II",
+    "dob": "1978-03-05",
+    "pob": {
+        "city": "San Francisco",
+        "state": "California",
+        "country": "United States",
+        "latitude": 37.7786,
+        "longitude": -122.4892
+    },
+    "image": "person-05.jpg",
+    "favColor": "Red"
+}

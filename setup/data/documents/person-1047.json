@@ -1,0 +1,17 @@
+{
+    "id": 1047,
+    "firstName": "Noelyn",
+    "lastName": "Nanelli",
+    "company": "Gislason-Casper",
+    "title": "Staff Accountant III",
+    "dob": "1999-08-16",
+    "pob": {
+        "city": "San Bernardino",
+        "state": "California",
+        "country": "United States",
+        "latitude": 34.1069,
+        "longitude": -117.2975
+    },
+    "image": "person-06.jpg",
+    "favColor": "Fuscia"
+}

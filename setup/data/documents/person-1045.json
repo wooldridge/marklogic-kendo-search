@@ -1,0 +1,17 @@
+{
+    "id": 1045,
+    "firstName": "Marni",
+    "lastName": "Oolahan",
+    "company": "Lynch-Altenwerth",
+    "title": "Senior Sales Associate",
+    "dob": "2000-06-01",
+    "pob": {
+        "city": "Miami",
+        "state": "Florida",
+        "country": "United States",
+        "latitude": 25.5584,
+        "longitude": -80.4582
+    },
+    "image": "person-04.jpg",
+    "favColor": "Fuscia"
+}

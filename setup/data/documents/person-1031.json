@@ -1,0 +1,17 @@
+{
+    "id": 1031,
+    "firstName": "Carney",
+    "lastName": "Zuan",
+    "company": "Ritchie, Heathcote and Welch",
+    "title": "Accounting Assistant III",
+    "dob": "1989-10-19",
+    "pob": {
+        "city": "San Francisco",
+        "state": "California",
+        "country": "United States",
+        "latitude": 37.7848,
+        "longitude": -122.7278
+    },
+    "image": "person-05.jpg",
+    "favColor": "Orange"
+}
